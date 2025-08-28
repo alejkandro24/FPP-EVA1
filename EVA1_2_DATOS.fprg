@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="FUNDAMENTOS DE PROGRAMACION EVA1_1_HOLAMUNDO"/>
+        <attribute name="authors" value="carpi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 10:04:36 PM"/>
+        <attribute name="created" value="Y2FycGk7Q0hBUkxZOzIwMjUtMDgtMjU7MDQ6MDM6MDggUE07MjI2MQ=="/>
+        <attribute name="edited" value="Y2FycGk7Q0hBUkxZOzIwMjUtMDgtMjY7MTA6MDQ6MzYgUE07NDsyMzcy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;HOLA MUNDO&quot;" newline="True"/>
+            <output expression="&quot;FUNDAMENTOS DE PROGRAMACION&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
