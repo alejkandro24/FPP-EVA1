@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA_1_5_VARIABLES"/>
+        <attribute name="authors" value="carpi"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-31 07:59:07 PM"/>
+        <attribute name="created" value="Y2FycGk7Q0hBUkxZOzIwMjUtMDgtMjg7MDQ6MzY6NTAgUE07MjI2Nw=="/>
+        <attribute name="edited" value="Y2FycGk7Q0hBUkxZOzIwMjUtMDgtMzE7MDc6NTk6MDcgUE07MTsyMzc5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="NOMBRE" type="String" array="False" size=""/>
+            <declare name="EDAD" type="Integer" array="False" size=""/>
+            <assign variable="NOMBRE" expression="&quot;ALEJANDRO HERNANDEZ CERNA&quot;"/>
+            <assign variable="EDAD" expression="36"/>
+            <output expression="NOMBRE" newline="True"/>
+            <output expression="EDAD" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
